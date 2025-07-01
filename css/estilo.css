@@ -1,0 +1,19 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {margin: 0px}
+
+header { 
+background-color:cornflowerblue;
+color :aliceblue;
+margin:0px;
+padding : 50px;}
+
+section {
+background-color:crgb(213, 221, 237);
+color :aliceblue;
+margin:10px;
+padding : 10px;
+}
