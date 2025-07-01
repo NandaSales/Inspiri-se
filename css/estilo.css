@@ -1,19 +1,22 @@
 body {
     padding: 0px;
     margin: 0px;
+    text-align:center;
+    background-color: rgb(254, 208, 193);
 }
 
 h1 {margin: 0px}
 
 header { 
-background-color:cornflowerblue;
+background-color:rgb(233, 108, 55);
 color :aliceblue;
-margin:0px;
-padding : 50px;}
+padding : 50px;
+}
 
 section {
-background-color:crgb(213, 221, 237);
-color :aliceblue;
-margin:10px;
-padding : 10px;
+background-color:aliceblue;
+margin:80px auto;
+width:600px;
+padding:60px;
+
 }
