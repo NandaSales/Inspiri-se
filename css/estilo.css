@@ -17,6 +17,6 @@ section {
 background-color:aliceblue;
 margin:80px auto;
 width:600px;
-padding:60px;
-
+padding:20px;
+border: 1px rgba(0, 0, 0, 0.364) solid;
 }
